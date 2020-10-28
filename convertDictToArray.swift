@@ -29,3 +29,4 @@ func convertDictToArray(dic: [String: Int]) -> (arr1: [String] , arr2: [Int]){
     return (array2, array1)
 }
 convertDictToArray(dic: cities)
+
