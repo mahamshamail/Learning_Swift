@@ -22,3 +22,4 @@ func isPerfect (num: Int) -> Bool{
     }
 }
 print(isPerfect(num: 0))
+
